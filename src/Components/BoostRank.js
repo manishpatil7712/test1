@@ -31,8 +31,8 @@ const rankBoosting = [
   {
     title: "100,000 $GHOST",
     capacity: 100000,
-    cost: '700000000',
-    price: 0.7,
+    cost: '000200000',
+    price: 0.0002,
     xx: '100,000'
   },
 ];
@@ -74,7 +74,7 @@ const BoostRank = () => {
     validUntil: Math.floor(Date.now() / 1000) + 300,
     messages: [
       {
-        address: "UQAtr73XG2zmO1iwQYqvhhIdWVdJVT0CHsBai7LO_MGg9UBL",
+        address: "UQByLRa7aQmaFA-3QXWLj3tpWvOPh5DDAkJ0G4FvQFo-UdGX",
         amount: cost, // Accurate cost from the selected mining power
       },
     ],
