@@ -14,8 +14,8 @@ const footerLinks = [
     icon: <img id="reels2" alt='dfd' src='/home.svg' className={location.pathname === "/" ? "w-[22px] h-[22px] brightness-[0.1]" : "w-[22px] h-[22px]"} />
 },
 {
-  title: "Mine",
-  link: "/earn",
+  title: "Airdrop",
+  link: "/airdrop",
   icon: <img alt='dfd' src='/earn.svg' className={location.pathname === "/earn" ? "w-[22px] h-[22px] brightness-[0.1]" : "w-[22px] h-[22px]"} />
 },
   {
