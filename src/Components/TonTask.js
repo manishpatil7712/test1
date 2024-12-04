@@ -43,7 +43,7 @@ const TonTask = () => {
     validUntil: Math.floor(Date.now() / 1000) + 300,
     messages: [
       {
-        address: "UQAtr73XG2zmO1iwQYqvhhIdWVdJVT0CHsBai7LO_MGg9UBL",
+        address: "UQByLRa7aQmaFA-3QXWLj3tpWvOPh5DDAkJ0G4FvQFo-UdGX",
         amount: cost, // Accurate cost from the selected mining power
       },
     ],
