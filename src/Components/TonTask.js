@@ -20,8 +20,8 @@ const TonTask = () => {
   const [tonConnectUI] = useTonConnectUI();
   const [congrats, setCongrats] = useState(false);
   const bonusAward = 10000;
-  const cost = '000100000'
-  const price = 0.0001
+  const cost = '001000000'
+  const price = 0.001
 
 
   useEffect(() => {
