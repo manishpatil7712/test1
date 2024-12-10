@@ -1,5 +1,5 @@
 body{
-  background: radial-gradient(circle at center,#0af7ef,#000);
+  background: radial-gradient(circle at center,#ffa500,#000);
   /* background: linear-gradient(to top, #000, #181100); */
   /* background: #150c17; */
   background-color: #000;
@@ -26,7 +26,7 @@ p, em{
   background-size:cover;
   background-repeat: no-repeat;
   background-position-y: 20px;
-  background-color: #ffd798;
+  background-color: #ffa500;
   background-blend-mode: multiply;
 } */
 
