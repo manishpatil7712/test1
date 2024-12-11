@@ -27,6 +27,7 @@ p, em{
   background-repeat: no-repeat;
   background-position-y: 20px;
   background-color: #ffa500;
+  backdrop-filter: blur(30px);
   background-blend-mode: multiply;
 } */
 
